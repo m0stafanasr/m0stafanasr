@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m0stafanasr
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on front end projects
+- 👀 interested in web development
+- 🌱 currently learning Angular
+- 💞️ looking to collaborate on front end projects
 - 📫 How to reach me 
   Email: mostafanasr2020@gmail.com
   phone No.: 01116214280
